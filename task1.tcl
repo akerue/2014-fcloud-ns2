@@ -20,7 +20,7 @@ $ns trace-all $fall
 set fnam [open task1.nam w]
 $ns namtrace-all $fnam
 
-set ftcp [open task.tcp w]
+set ftcp [open task1.tcp w]
 
 # Dumbbell topology 
 #
